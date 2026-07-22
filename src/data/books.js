@@ -1,0 +1,33 @@
+export const books = [
+  {
+    title: 'Strings',
+    author: 'Reema Sherin',
+    genre: 'Poetry, Prose & Modern Musings',
+    format: 'Kindle Edition · Paperback',
+    description: 'From rekindling old connections to processing loss, Strings explores the moments that compel us to reassess our existence. Gentle poetry and prose transform simple gestures and quiet reflections into poignant reminders of the ties that bind us together.',
+    cover: '/assets/book-1-cover.jpg',
+    back: '/assets/book-1-back.jpg',
+    amazon: 'https://amzn.in/d/0djavwJt',
+  },
+  {
+    title: 'Scarring',
+    author: 'Reema Sherin',
+    genre: 'Poetry & Contemporary Reflection',
+    format: 'Kindle Edition · Paperback',
+    description: 'An intimate exploration of emotional healing, endurance, and memory. Scarring delves into the marks left behind by painful experiences and the strength discovered while healing from them.',
+    cover: '/assets/book-2-cover.jpg',
+    back: '/assets/book-2-back.jpg',
+    amazon: 'https://amzn.in/d/05TIbHm7',
+  },
+  {
+    title: 'Unfiltered: Pages for Your Pauses',
+    shortTitle: 'Unfiltered',
+    author: 'Reema Sherin',
+    genre: 'Poetry, Mindfulness & Journaling',
+    format: 'Hardcover',
+    description: "Designed as a companion for life's quiet moments, Unfiltered offers honest, raw reflections that invite readers to pause, breathe, and connect with their inner thoughts without judgment.",
+    cover: '/assets/book-3-cover.jpg',
+    back: '/assets/book-3-back.jpg',
+    amazon: 'https://amzn.in/d/01JJ29xF',
+  },
+]
